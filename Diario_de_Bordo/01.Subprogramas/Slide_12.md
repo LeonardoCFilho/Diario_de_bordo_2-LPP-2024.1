@@ -8,3 +8,5 @@
 - Definição, chamada, ativo
 - Posição de declaração do subprograma não afeta seu funcionamento
 - Python permite o estabelecimento de valores padrões
+- Na definição de subprogramas, os tipos de variáveis não precisam ser declarados
+  - As únicas excessões para essa regra são Arrays e dicionários
