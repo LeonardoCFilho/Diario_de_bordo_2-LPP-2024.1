@@ -1,5 +1,8 @@
 ### Suporte a POO
 - <alguma coisa> 
 - TAD
-  - Encapsulamento
-- 
+  - Protocolo ou interface
+  - Métodos são as mensagens passadas entre blocos
+- <Herança em Python>
+- <Polimorfismo> em Python
+
