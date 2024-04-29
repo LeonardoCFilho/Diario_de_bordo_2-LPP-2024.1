@@ -21,4 +21,16 @@
   - Simples:
     - 
   - Múltipla:
-- 
+
+### Alocação e desalocação de projetos
+- Heap ( = -> local da memrória)
+- Pilha ( = -> cópia de valores)
+- Desalocação:
+  - Implícita
+    - <Interpretador cuida das variáveis
+- Classes internas:
+  - Nova classe à função que pertence
+- Inicialização:
+  - Inicialização das superclasses explicitas
+  - Inicialização dos membros da superclasse:
+    - 
