@@ -1,0 +1,2 @@
+### Tratador de excessões
+- 
