@@ -19,5 +19,3 @@
     - Correção pelo programador ou pré-definida
   - Temporariamente desligar
     - Possível?
-
-### 
