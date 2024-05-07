@@ -1,12 +1,39 @@
-### Subprogramas
-- Abstração de dados e processos em subprogramas
-  - Economia de memória e tempo
-  - Encapsulamento
-  - Melhor legibilidade
-- Suspende a execução do programa que chama o subprograma
-  - Co-rotina e threads são excessões para essa regra
-- Definição, chamada, ativo
-- Posição de declaração do subprograma não afeta seu funcionamento
-- Python permite o estabelecimento de valores padrões
-- Na definição de subprogramas, os tipos de variáveis não precisam ser declarados
-  - As únicas excessões para essa regra são Arrays e dicionários
+### Definções básicas 
+- Cabeçalho de subprograma
+  - Definição
+  - Exemplo em código
+- Acesso de dados
+ - Variáveis globais
+ - Variáveis recebidas
+
+### Definição vs declaração
+- Permite referência futura?
+- Se sim
+  - Estrutura
+  - Exemplo em código
+
+### Funções e procedimentos
+- Procedimento
+  - Alterar diretamente
+  - Exemplo em código
+- Função
+  - Retornar resultado
+  - Exemplo em código
+
+### Parâmetros
+- Mais flexível que subprogramas
+- Parâmetros formais e reais
+  - Exemplo em código
+- Parâmetros nomeados
+  - Exemplo em código
+- Valores padrões
+  - Exemplo em código
+
+### Parâmetro variádico 
+- Exemplo em código
+
+### Variáveis locais & subprogramas aninhados
+- Pilha-dinâmica
+- Subprogramas aninhados
+  - Estrutura
+  - Exemplo em código
