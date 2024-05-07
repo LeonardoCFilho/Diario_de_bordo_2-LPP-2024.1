@@ -1,7 +1,7 @@
 ### Definções básicas 
 - Cabeçalho de subprograma
   - Definição
-  - Exemplo em código
+  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
 - Acesso de dados
  - Variáveis globais
  - Variáveis recebidas
@@ -10,30 +10,30 @@
 - Permite referência futura?
 - Se sim
   - Estrutura
-  - Exemplo em código
+  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
 
 ### Funções e procedimentos
 - Procedimento
   - Alterar diretamente
-  - Exemplo em código
+  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
 - Função
   - Retornar resultado
-  - Exemplo em código
+  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
 
 ### Parâmetros
 - Mais flexível que subprogramas
 - Parâmetros formais e reais
-  - Exemplo em código
+  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
 - Parâmetros nomeados
-  - Exemplo em código
+  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
 - Valores padrões
-  - Exemplo em código
+  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
 
 ### Parâmetro variádico 
-- Exemplo em código
+- Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
 
 ### Variáveis locais & subprogramas aninhados
 - Pilha-dinâmica
 - Subprogramas aninhados
   - Estrutura
-  - Exemplo em código
+  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
