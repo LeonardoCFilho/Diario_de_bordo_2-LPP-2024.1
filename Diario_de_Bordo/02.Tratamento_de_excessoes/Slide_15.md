@@ -1,10 +1,8 @@
-### Tratamento de excessões
-- Vários catch() para 1 try{}
-
 ### Tratadores de excessões
-- Pré definido:
-  - Try{} e Catch{}
 - Tratadores
+  - try{} e except{}
+    - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+- Continuação após o erro
   - Propagação
     - Até onde
     - Controle
