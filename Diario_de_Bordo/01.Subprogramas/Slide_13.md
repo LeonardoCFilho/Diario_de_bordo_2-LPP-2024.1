@@ -1,20 +1,20 @@
 ### Passagem de parâmetros
 - Passagem por valor
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - [Exemplo]() e sua [saída no terminal]()
 - Passagem por resultado
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - [Exemplo]() e sua [saída no terminal]()
 - Passagem por valor-resultado
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - [Exemplo]() e sua [saída no terminal]()
   - Vantagens:
     - 1
   - Desvantagens:
     - 2
 - Passagem por referência
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - [Exemplo]() e sua [saída no terminal]()
 - Passagem por nome
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - [Exemplo]() e sua [saída no terminal]()
 - Macros e genêricos
-  - Exemplo em código? -----------------------------------------------------------------------------------------------------------------------------
+  - [Exemplo]() e sua [saída no terminal]()?
 
 ### Verificação de tipo
 - Python é dinâmica -> provavelmente não define tipos para os parâmetros formais
@@ -24,5 +24,5 @@
 
 ### Subprograma como parâmetros
 - Python permite?
-  - Se sim Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - Se sim [Exemplo]() e sua [saída no terminal]()
   - Tipo de amarração   
