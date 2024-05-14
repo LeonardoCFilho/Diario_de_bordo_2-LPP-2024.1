@@ -14,26 +14,26 @@
 
 ### Funções e procedimentos
 - Procedimento
-  - Alterar diretamente
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - Altera diretamente
+  - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/3.Procedimento.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/3.Procedimento.png)
 - Função
-  - Retornar resultado
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - Retorna o resultado
+  - [Exemplo]() e sua [saída no terminal]()
 
 ### Parâmetros
 - Mais flexível que subprogramas
 - Parâmetros formais e reais
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - [Exemplo]() e sua [saída no terminal]()
 - Parâmetros nomeados
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - [Exemplo]() e sua [saída no terminal]()
 - Valores padrões
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - [Exemplo]() e sua [saída no terminal]()
 
 ### Parâmetro variádico 
-- Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+- [Exemplo]() e sua [saída no terminal]()
 
 ### Variáveis locais & subprogramas aninhados
 - Pilha-dinâmica
 - Subprogramas aninhados
   - Estrutura
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+  - [Exemplo]() e sua [saída no terminal]()
