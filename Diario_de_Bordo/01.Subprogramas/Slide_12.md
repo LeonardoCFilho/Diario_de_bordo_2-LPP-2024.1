@@ -33,7 +33,10 @@
   - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/6.Valores_padroes.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/6.Valores_padroes.png)
 
 ### Parâmetro variádico 
-- [Exemplo]() e sua [saída no terminal]()
+- Permitido através do uso de prefixo no cabeçalho
+  - '*' para tuple
+  - '**' para dicionários 
+- [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/7.Parametro_Variadico.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/7.Parametro_Variadico.png)
 
 ### Variáveis locais & subprogramas aninhados
 - Pilha-dinâmica
