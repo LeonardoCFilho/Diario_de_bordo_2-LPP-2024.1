@@ -1,7 +1,7 @@
 ### Tratadores de excessões
 - Tratadores
   - try{} e except{}
-    - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+    - [Exemplo]() e sua [saída no terminal]()
 - Continuação após o erro
   - Propagação
     - Até onde
