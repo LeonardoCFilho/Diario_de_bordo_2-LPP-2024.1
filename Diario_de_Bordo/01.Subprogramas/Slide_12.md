@@ -39,7 +39,8 @@
 - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/7.Parametro_Variadico.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/7.Parametro_Variadico.png)
 
 ### Variáveis locais & subprogramas aninhados
-- Pilha-dinâmica
+- Variáveis locais em Python são definidas como pilha-dinâmica
 - Subprogramas aninhados
-  - Estrutura
-  - [Exemplo]() e sua [saída no terminal]()
+  - Feito em Python através da definição de uma função dentro de outra
+  - A função criada (interna) pode ser chamada apenas pela função original
+  - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/8.Funcao_aninhada.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/8.Funcao_aninhada.png)
