@@ -23,11 +23,14 @@
 ### Parâmetros
 - Mais flexível que subprogramas
 - Parâmetros formais e reais
-  - [Exemplo]() e sua [saída no terminal]()
+  - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/4.Funcao.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/4.Funcao.png)
+    - Nesse exemplo, a primeira linha apresenta o parâmetro formal
+    - Além disso, na sexta linha, o parâmetro real é usado
 - Parâmetros nomeados
-  - [Exemplo]() e sua [saída no terminal]()
+  - Python permite o de parâmetros posicionais ou como nomeado
+  - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/5.Parametro_nomeado.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/5.Parametro_nomeado.png)
 - Valores padrões
-  - [Exemplo]() e sua [saída no terminal]()
+  - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/6.Valores_padroes.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/6.Valores_padroes.png)
 
 ### Parâmetro variádico 
 - [Exemplo]() e sua [saída no terminal]()
