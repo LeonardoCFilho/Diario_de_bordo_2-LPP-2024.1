@@ -3,14 +3,14 @@
   - Em python, o cabeçalho para uma função é definida como: def <nome da função>(< valores recebidos >):
   - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/1.Exemplo_Funcao.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/1.Exemplo_Funcao.png)
 - Acesso de dados
- - Variáveis globais
- - Variáveis recebidas
+ - É possível editar uma varáivel global em Python através do uso prefixo 'global' 
+ - Edição de valores recebidos
+   - Listas e dicionários podem ser diretamente alterados na função, alterando seu valor
+   - Variáveis como int e strings podem ser diretamente alterados na função, mas o valor será alterado apenas na função, não em sua posicação original  
 
 ### Definição vs declaração
-- Permite referência futura?
-- Se sim
-  - Estrutura
-  - Exemplo em código -----------------------------------------------------------------------------------------------------------------------------
+- Python não permite referência futura
+- [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/2.Referencia_Futura.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/2.Referencia_Futura.png)
 
 ### Funções e procedimentos
 - Procedimento
