@@ -18,7 +18,7 @@
   - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/3.Procedimento.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/3.Procedimento.png)
 - Função
   - Retorna o resultado
-  - [Exemplo]() e sua [saída no terminal]()
+  - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/4.Funcao.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_12/4.Funcao.png)
 
 ### Parâmetros
 - Mais flexível que subprogramas
