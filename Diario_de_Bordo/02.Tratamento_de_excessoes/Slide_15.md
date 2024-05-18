@@ -1,7 +1,7 @@
 ### Tratadores de excessões
 - Tratadores
   - try{} e except{}
-    - [Exemplo]() e sua [saída no terminal]()
+    - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/02.Tratamento_de_excessoes/Slide_15/1.Try_Except.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/02.Tratamento_de_excessoes/Slide_15/1.Try_Except.png)
 - Continuação após o erro
   - Propagação
     - Até onde
