@@ -25,6 +25,5 @@
 - Não altera a chamada em funções, já que a matriz como um todo é copiada
 
 ### Subprograma como parâmetros
-- Python permite?
-  - Se sim [Exemplo]() e sua [saída no terminal]()
-  - Tipo de amarração   
+- [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_13/4.Subprograma_Parametro.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_13/4.Subprograma_Parametro.png)
+- Tipo de amarração em Python é do tipo profunda
