@@ -1,7 +1,8 @@
-def quadrado(x):
-    return x*x 
+def sub(x):
+    a = int
+    a = x + 1
+    print(a)
 
 x = 5
 print(x)
-y = quadrado(x)
-print(x,y)
+sub(x)
