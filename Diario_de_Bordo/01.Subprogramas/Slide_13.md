@@ -6,13 +6,13 @@
 - Passagem por valor-resultado
   - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_13/3.Passagem_Valor-Resultado.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_13/3.Passagem_Valor-Resultado.png)
   - Vantagens:
-    - 1
+    - Permite a modificação de valores sem necessidade de um retorno explícito, com menor consumo de memória
   - Desvantagens:
-    - 2
+    - Dificulta a commpreensão do código, também podendo causar mudanças indesejadas
 - Passagem por referência
-  - [Exemplo]() e sua [saída no terminal]()
+  - Não é possível em Python, pois a linguagem não permite a manipulação direta da memória
 - Passagem por nome
-  - [Exemplo]() e sua [saída no terminal]()
+  - Não é possível em Python, pois a linguagem faz a cópia dos valores enviados para a função, alterando os nomes usados no processo
 - Macros e genêricos
   - [Exemplo]() e sua [saída no terminal]()?
 
