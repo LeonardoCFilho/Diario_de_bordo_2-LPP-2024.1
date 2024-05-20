@@ -2,7 +2,7 @@
 - Passagem por valor
   - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_13/1.Passagem_Valor.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_13/1.Passagem_Valor.png)
 - Passagem por resultado
-  - [Exemplo]() e sua [saída no terminal]()
+  - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_13/2.Passagem_Resultado.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_2-LPP-2024.1/blob/main/Codigos_e_Exemplos/01.Subprogramas/Slide_13/2.Passagem_Resultado.png)
 - Passagem por valor-resultado
   - [Exemplo]() e sua [saída no terminal]()
   - Vantagens:
