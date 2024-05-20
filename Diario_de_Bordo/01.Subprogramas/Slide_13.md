@@ -14,13 +14,15 @@
 - Passagem por nome
   - Não é possível em Python, pois a linguagem faz a cópia dos valores enviados para a função, alterando os nomes usados no processo
 - Macros e genêricos
-  - [Exemplo]() e sua [saída no terminal]()?
+  - Não há o conceito de macros e tipos genéricos em Python
 
 ### Verificação de tipo
-- Python é dinâmica -> provavelmente não define tipos para os parâmetros formais
+- Em Python, o tipo de variável é dinâmica, então a verificação de tipo teria que ser manualmente feito pelo programador
+- Na maioria dos casos, o uso de função para o tipo errado, causará a mudança do tipo da variável
 
 ### Arrays multidimensionais
-- Pesquisar como Python faz o mapeamento
+- Mapeado em linhas
+- Não altera a chamada em funções, já que a matriz como um todo é copiada
 
 ### Subprograma como parâmetros
 - Python permite?
